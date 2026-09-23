@@ -1,4 +1,3 @@
-
 def array_rotation_detector(arr1: list, arr2: list) -> bool:
     if arr1 == [] and arr2 == []:
         return True
